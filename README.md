@@ -1,6 +1,6 @@
 # DH150-Natalie-Tang
 for class demonstration
 
-##it is fun!
+## it is fun!
 
-###smaller
+### smaller
