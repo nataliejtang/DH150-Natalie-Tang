@@ -21,8 +21,23 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 ## Heuristic Evaluation Severity Scale
 
 1 = low priority, cosmetic problem only
+
 2 = should be given attention if the correct resources and enough time are available, causes a minor usability problem
+
 3 = requires immediate attention, causes a major usability problem
+## Website 1 Heuristic Evaluation - ED
+### 1. Visibility of System Status
+
+
+### 2. Match Between System and the Real World
+### 3. User Control and Freedom 
+### 4. Consistency and Standards
+### 5. Error Prevention
+### 6. Recognition Rather Than Recall
+### 7. Flexibility and Efficiency of Use
+### 8. Aesthetic and Minimalist Design
+### 9. Helps Users Recognize, Diagnose, and Recover from Errors
+### 10. Help and Documentation
 
 ## Website 2 Heuristic Evaluation - MBDA
 ### 1. Visibility of System Status
@@ -30,7 +45,7 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 
 ### 2. Match Between System and the Real World
 - This website uses typical business language such as "private equity and venture capital sourcing" which may seem acceptable given this website is geared towards people who own businesses. On the contrary, this can actually discourage people who are not farmiliar with these terms from starting a business which is counterproductive to the goal of the MBDA. Severity Rating (1)
-- Similar to when you meet a new person, users may be expecting some sort of general introduction to what the SBDA is/does on the openning page. Currently, the home page focuses on featured, relevant highlights and loans & grants. Although there is an "About" page located in the drop-down menu, it would be valuable to add at least a sentence or short statement somewhere on the home page so that first-time users will not feel flustered when using this website. Severity Rating (1) 
+- Similar to when you meet a new person, users may be expecting some sort of general introduction to what the SBDA is/does on the openning page. Currently, the home page focuses on featured, relevant highlights and loans & grants. Although there is an "About" page located in the drop-down menu, it would be valuable to add at least a sentence or short statement somewhere on the home page so that first-time users will not feel flustered when using this website. Severity Rating (2) 
 - This website has done a good job at matching icons to their respective titles which would be consistent with user expectations. For example, the title "Find a Business Center" is paired with an office building icon and the title "Research and Data" is paired with a graph and folder icon. 
 
 ### 3. User Control and Freedom 
@@ -39,27 +54,31 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 - This website supports user control and freedom by providing a "cancel" button when subscribing to their email service. 
 
 ### 4. Consistency and Standards
--
-- feedback vs contact ?? are they the same thing // tools & resources 
-- there is a downward arrow in the dataset that says "state/US" and when clicked on realphabetizes the list of states; however, typically arrows like that signal that you can collapse/expand a long list so I was confused when it reordered them instead of compressing them. 
+- When a search is completed on this website the entire layout changes -- the font, the phrasing, the format, etc. This is extremely confusing from the user's perspective because the website looks unrecognizable from the home page but maintains the same functionality. Severity Rating (3)
+- In the data visualization section of the website there is a downward arrow next to the title "State/US" that realphabetizes the list of states. However, arrows in this format signal that you can collapse or expand a long list (like a list of states). This is confusing for a user because it will not match their expectations. Severity Rating (2)
+- Typically, websites feature visible and clickable headings across the length of the top page that are part of the "menu." The MBDA website opted for non-visible menu titles that only become visible once the user locates and clicks the menu side-bar. This impacts the user's experience because it deviates from standard expectation in a way that is not logical or functional. Similarly, it leaves a large top portion of the website blank that user's typically expect to be filled with guiding titles. Severity Rating (3)
 
 ### 5. Error Prevention
+- If a user clicks a link that leads to an outside website such as facebook, instagram, or twitter they are not notified that they will be leaving the page. A pop up message that asks the user if they are sure they want to leave the page would prevent users who accidentally click links or icons from getting frustrated by unnecessary redirections. Severity Rating (1)
+- The search feature does not offer autofill options that can prevent users from misspelling words and offer suggestions. The website does, however, attempt to correct misspelled words after the search is complete. Severity Rating (1)
+- Links turn purple after they have been clicked on which prevents the user from getting confused about links that they have or have not clicked on. 
 
 ### 6. Recognition Rather Than Recall
-- no search history for searches
-- the subtitles in the menu bar do not appear at all times if you want to visit another part of the website you must click on the menu bar ALSO the menu bar is only located at the very top and does not travel down the page as one scrolls
-- good -- offer a drop down list for filters for their site locations and data for all minority businesses
--- good- links turn purple after they have been clicked on so the user does not get confused
+- There is no search history available to users that may need to look back at their recently viewed pages/documents. This makes it much harder on the user because they will be forced to try to remember the exact page that they were viewing. Severity Rating (3)
+- The titles that are located in the menu bar do not appear at all times. If the user wants to visit a different part of the website they must click on the menu bar to reveal the different options. The menu bar is only located at the top right of the page which makes it harder for the user that has scrolled to the bottom of the page. If the titles in the menu bar were listed and "frozen" to the top of the page the user would not have to try to recall menu titles when they are at different parts of the website. Severity Rating (3)
+- This website successfully utilizes recognition over recall by offering a drop down list of filters when trying to find different site locations and data. 
 
 ### 7. Flexibility and Efficiency of Use
-- good: there is a back to the top arrow button once you start scrolling 
-- user has the option to filter different characteristics of MBEs in the data that is provided but cannot save only the filtered items -- only option is to download the entire csv file 
+- In the data visualization section of this website there is an option to filter different characterstics of MBEs (e.g. industry, firm ownership, year). The results of the filtered data cannot be saved, the only option is to download the data in its entirety via a csv file. This makes the filter option practically useless and inefficient because it cannot be saved in a way that is useful for the user. Severity Rating (2)
+- The MBDA website is made more efficient by providing users with a "back to the top arrow" that appears if the user scrolls down the page. 
 
 ### 8. Aesthetic and Minimalist Design
-- For the most part the design is aesthetic and minimalist making it easier for users to navigate. However, the colors do not complement each other -- the highlight reel vs what is below it -- the overpowering pink color and blue on blue. Seems like it only focuses on loans and grants because there are no visible options bc no menu bar that is always present
+- For the most part the design of this website is aesthetically pleasing and minimalistic which makes it easier for users to navigate. However, the colors on the openning page do not complement each other which causes a visual clash. This is apparent when comparing the highlight reel to the section below it - an overpowering pink color is contrasted with blue along with blue on blue that does not provide enough contrast. Severity Rating (1).
+- Another problem is how the users attention is drawn to the heading "Loans and Grants" that apppears in larger font than any of the featured topics. This is likely caused by a lack of guidance because the menu options are not present at the top of the page. Severity Rating (1).  
 
 ### 9. Helps Users Recognize, Diagnose, and Recover from Errors
+- On the email subscription sign up page, the website recognizes any missing information and informs the user to fill out all spaces with an asterisks. It does not screen for errors entered manually by the user. For example, the submission of a fake_email@fakewebsite.com is an acceptable email address. Severity Rating (2). 
+- After the search of a misspelled word or phrase is completed the engine automatically corrects to the predicted word or phrase. This saves the user's time so that they do not have to redo their whole search due to a spelling mistake. 
 
 ### 10. Help and Documentation
-- no help or frequently asked questions section of the website 
-- there is a place to provide feedback but no place to ask questions-- it is unclear whether this feedback page is for asking questions says it is a place for "comments, concerns, etc." but not questions (3)
+- There is no "Help" or "Frequently Asked Questions" section of this website. This is a huge problem because it offers no guidance to first time users. There is a place to provide feedback under the "tools and resources" tab but this is not a designated place for asking questions. It is unclear whether or not this feedback page is a place for asking questions because it says that it is a place for "comments, suggestions, and pointing out mistakes." Severity Rating (3) 
