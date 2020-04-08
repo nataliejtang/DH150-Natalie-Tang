@@ -3,6 +3,8 @@
 
 Over 170 countries across the globe have confirmed cases of coronavirus. In the United States, 41 states are under mandatory stay-at-home orders and life as we knew it dramatically changed around mid-March. The commute to work looks much different now from what it once was. Students from elementary schools all the way to the university level are now completing school online and at home. Over 6 million people have filed for unemployment. People are rallying support for small businesses that will be heavily impacted by forced closures and decreasing sales. I have chosen to evaluate two public spaces that have been affected by the coronavirus--the department of education and the minority business development agency. As a result of this ongoing pandemic, the education system has had to quickly adapt to become accessible to all kids and adults from home which requires new technology, new teaching methods, etc. Similarly, small businesses owners/workers have been more heavily impacted by COVID-19 than larger, chain stores. Small businesses have become more creative to try and boost sales or are forced to close down altogether. I am specifically focusing on minority business because people of color are disproportionately impacted by the coronavirus which would, in turn, affect minority businesses. 
 
+I would like to improve the UX of these websites so that they are easier for users to navigate during a time when traffic to these websites may be increasing due to the pandemic brought on by COVID-19. 
+
 ### Website 1: U.S. Department of Education
 https://www.ed.gov
 
