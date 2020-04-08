@@ -73,10 +73,15 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 ### 1. Visibility of System Status
 - Hovering over any links or pictures on this website causes background movement and/or the arrow colors will change in order to signal to the user that they are about to move to a different part of the website if they proceed. However, some arrows turn red when they are hovered over while others do not. Similarly, any option in the drop-down menu bar does not change color or move when the mouse is hovering over it. These inconsistensies can confuse the user and lead them to wrong parts of the website because the user's actions are not being communicated properly. Severity Rating (1)
 
+![red arrow](visibility.png)
+![white arrow](visibility2.png)
+
 ### 2. Match Between System and the Real World
 - This website uses typical business language such as "private equity and venture capital sourcing" which may seem acceptable given this website is geared towards people who own businesses. On the contrary, this can actually discourage people who are not farmiliar with these terms from starting a business which is counterproductive to the goal of the MBDA. Severity Rating (1)
 - Similar to when you meet a new person, users may be expecting some sort of general introduction to what the SBDA is/does on the openning page. Currently, the home page focuses on featured, relevant highlights and loans & grants. Although there is an "About" page located in the drop-down menu, it would be valuable to add at least a sentence or short statement somewhere on the home page so that first-time users will not feel flustered when using this website. Severity Rating (2) 
 - This website has done a good job at matching icons to their respective titles which would be consistent with user expectations. For example, the title "Find a Business Center" is paired with an office building icon and the title "Research and Data" is paired with a graph and folder icon. 
+![business center](match.png)
+![research and data](match2.png)
 
 ### 3. User Control and Freedom 
 - If the user selects any icons/links that lead the user outside of the MBDA's website a new tab is opened. For example, if a user selects share to facebook a new tab will open with a proposed facebook message. Typically, I find it much more convenient if I can just click the back button as opposed to closing out a whole new tab. Severity Rating (1)
@@ -85,13 +90,20 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 
 ### 4. Consistency and Standards
 - When a search is completed on this website the entire layout changes -- the font, the phrasing, the format, etc. This is extremely confusing from the user's perspective because the website looks unrecognizable from the home page but maintains the same functionality. Severity Rating (3)
+
+![search](search.png)
 - In the data visualization section of the website there is a downward arrow next to the title "State/US" that realphabetizes the list of states. However, arrows in this format signal that you can collapse or expand a long list (like a list of states). This is confusing for a user because it will not match their expectations. Severity Rating (2)
+
+![realphabetize](realphabetize.png)
 - Typically, websites feature visible and clickable headings across the length of the top page that are part of the "menu." The MBDA website opted for non-visible menu titles that only become visible once the user locates and clicks the menu side-bar. This impacts the user's experience because it deviates from standard expectation in a way that is not logical or functional. Similarly, it leaves a large top portion of the website blank that user's typically expect to be filled with guiding titles. Severity Rating (3)
+
+![drop down menu](menubar.png)
 
 ### 5. Error Prevention
 - If a user clicks a link that leads to an outside website such as facebook, instagram, or twitter they are not notified that they will be leaving the page. A pop up message that asks the user if they are sure they want to leave the page would prevent users who accidentally click links or icons from getting frustrated by unnecessary redirections. Severity Rating (1)
 - The search feature does not offer autofill options that can prevent users from misspelling words and offer suggestions. The website does, however, attempt to correct misspelled words after the search is complete. Severity Rating (1)
 - Links turn purple after they have been clicked on which prevents the user from getting confused about links that they have or have not clicked on. 
+![purple](purple.png)
 
 ### 6. Recognition Rather Than Recall
 - There is no search history available to users that may need to look back at their recently viewed pages/documents. This makes it much harder on the user because they will be forced to try to remember the exact page that they were viewing. Severity Rating (3)
@@ -102,8 +114,15 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 - In the data visualization section of this website there is an option to filter different characterstics of MBEs (e.g. industry, firm ownership, year). The results of the filtered data cannot be saved, the only option is to download the data in its entirety via a csv file. This makes the filter option practically useless and inefficient because it cannot be saved in a way that is useful for the user. Severity Rating (2)
 - The MBDA website is made more efficient by providing users with a "back to the top arrow" that appears if the user scrolls down the page. 
 
+![back to top](backtotop.png)
+
 ### 8. Aesthetic and Minimalist Design
 - For the most part the design of this website is aesthetically pleasing and minimalistic which makes it easier for users to navigate. However, the colors on the openning page do not complement each other which causes a visual clash. This is apparent when comparing the highlight reel to the section below it - an overpowering pink color is contrasted with blue along with blue on blue that does not provide enough contrast. Severity Rating (1).
+
+![pink](pink.png)
+
+![blue](blue.png)
+
 - Another problem is how the users attention is drawn to the heading "Loans and Grants" that apppears in larger font than any of the featured topics. This is likely caused by a lack of guidance because the menu options are not present at the top of the page. Severity Rating (1).  
 
 ### 9. Helps Users Recognize, Diagnose, and Recover from Errors
