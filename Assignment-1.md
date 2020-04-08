@@ -8,14 +8,14 @@ https://www.ed.gov
 
 The Department of Education (ED) exists to "promote student achievement" by ensuring equal access and encouraging educational excellence. To do this the ED (1) oversees and distributes federal education funding, (2) collects data and conducts research on schooling in the U.S., (3)identifies and draws attention to major educational issues and (4)enforces federal regulations prohibiting discrimination in programs that recieve federal funding. 
 
-The opening page of the department's website is standard and includes four main headings that relate to the four action items that ED is responsible for that were listed above--student loans, grants, laws, and data. There are pictures below the main headings with the exact same titles which are redundant and unecessary. Overall, I would say that this website is very cluttered and does not have a clear ... The other headings on the website seemed to just be thrown together and 
+The opening page of the department's website is standard and includes four main headings that relate to the four action items that ED is responsible for that were listed above--student loans, grants, laws, and data. There are pictures below the main headings with the exact same titles which are redundant and unecessary. Overall, I would say that this website is very cluttered and does not have a clear focal point. The structure of the website, however, is simple which makes it easy for a user to navigate. 
 
 ### Website 2: Minority Business Development Agency (MBDA)
 https://www.mbda.gov
 
 The Minority Business Development Agency was created by the U.S. Department of Commerce and aims to promote growth of minority businesses whith the use of different programs, policies, and research. The Agency has created many centers that facilitate this growth by providing assistance services to Minority Business Enterprises (MBEs). 
 
-The website opens to a rotating highlight reel with a prominent heading of "loans and grants" directly below it. It also features the latest news/tweets concerning minority businesses as well as where to locate one of their centers,more about the inclusive innovation initiative, and access to the agency's research library that has statistics on minority businesses in the United States. The menu bar is tucked away in the far right corner and opens in a way that is not standard to most websites. Due to the positioning of the menu bar, the user is led to focus more on the center of the page and the heading in tiny font that reads, "NOW OPEN: Nevada and New Mexico MBDA Business Center Grant Competitions." Overall, .....
+The website opens to a rotating highlight reel with a prominent heading of "loans and grants" directly below it. It also features the latest news/tweets concerning minority businesses as well as where to locate one of their centers, more about the inclusive innovation initiative, and access to the agency's research library that has statistics on minority businesses in the United States. The menu bar is tucked away in the far right corner and opens in a way that is not standard to most websites. Due to the positioning of the menu bar, the user is led to focus more on the center of the page and the heading in tiny font that reads, "NOW OPEN: Nevada and New Mexico MBDA Business Center Grant Competitions." Overall, the website looks very sleak but is not organized in the most functional manner. 
 
 
 ## Heuristic Evaluation Severity Scale
@@ -25,19 +25,46 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 2 = should be given attention if the correct resources and enough time are available, causes a minor usability problem
 
 3 = requires immediate attention, causes a major usability problem
+
 ## Website 1 Heuristic Evaluation - ED
 ### 1. Visibility of System Status
-
+- This website does its best to let users know what is happening. When the user hovers over a clickable link the text becomes underlined or turns a different color to make the user aware that they click to visit a different part of the website. However, the featured portion of the mainpage has clickable headings and pictures but the user is not made aware that these are, in fact, clickable because nothing becomes underlined or changes color. Severity Rating (1)
 
 ### 2. Match Between System and the Real World
+- The homepage of the Department of Education features four main titles that are accompanied by pictures that should aide the user in understanding the main title. Some of these pairings make sense like the association of "Student Loans" with a picture of a graduate. Other heading and picture pairings do not match real world expectations or make logical sense. For example, "Grants" are pictured with a small gathering and "Laws" are pictured with a child. These seemingly have nothing to do with each other and can potentially confuse the user about what these links may lead to. Severity Rating (2).
+- The website does a good job overall at speaking the user's language and not using foreign or difficult terminology. Even first time users would be familiar with terms like "loans" or "laws" and in the event that they are not the website offers a short description of the main titles below their pictures. 
+
 ### 3. User Control and Freedom 
+- The four main, clickable headings of this website are obscured from the users view anytime the user scrolls further down the page. This could potentially prevent the user from freely accessing other portions of the website. This could be solved by allowing the four main titles to show at all times (even when scrolling) or by providing a "back to the top" button. Severity Rating (1) 
+- Overall, there are no major issues here as the user can utilize the back button to "undo" any incorrect movements along the site. This website also provides a "cancel" button when a user attempts to subscribe to their email service in case it was a mistake. 
+
 ### 4. Consistency and Standards
+- Typically words in blue colored font are known to be clickable links, especially if the wording is both blue and underlined. On this website, there are many instances where there is blue font that is not a clickable link. This is confusing for users because it does not match typical expectations. Severity Rating (3)
+- At the very bottom of the website each of the four main headings have various subheadings listed below them. These subheadings do not appear when the user hovers over the four main titles at the top of the page via a drop down bar or something of that nature. The subheadings are helpful in guiding users to specific locations on the website and this lack of consistency only negatively impacts the user. Severity Rating (2)
+
 ### 5. Error Prevention
+- Many of the links on this website lead to outside websites (e.g. FAFSA). Users can mistakenly click on something that leads them off of the ED website to a completely different website without being notified first. This could be prevented with a pop-up message that asks the user if they are sure that they want to leave this page to visit another. Severity Rating (3) 
+- The search feature does not offer autofill options that can prevent users from misspelling words and offer suggestions. The website does, however, attempt to correct misspelled words after the search is complete. Severity Rating (1)
+
 ### 6. Recognition Rather Than Recall
+- Traditionally, links that have already been viewed or clicked turn purple to let the user know that they have already visited a certain link. This allows the user to recognize which links they have already clicked rather than have to individually recall them and prevents confusion. However, on this website this only occurs with certain links meaning that only some links that have been clicked on will turn purple. Severity Rating (2)
+- There is no search history or "recently viewed" options available to users that may need to look back at their recently viewed pages/documents. This makes it much harder on the user because they will be forced to try to remember the exact page that they were viewing. This is a completely necessary tool for a website like the Department of Education because there are so many different links available to the user on every single page. Severity Rating (3)
+
 ### 7. Flexibility and Efficiency of Use
+- As previously mentioned, this website lacks a "back to the top" option that would increase the site's overall efficiency and ease of use. Severity Rating (1)
+- There is an option in the upper right corner that allows the user to "Skip to Main Content." This seems to be an attempt by this website to improve efficeincy; however, it only scrolls past the website headers (this includes the main four headings). This seems rather pointless and can be confused for a main or home page by the user. Severity Rating (2)
+
 ### 8. Aesthetic and Minimalist Design
+- The design of this website is very basic which makes it easy for users to navigate. The site is not very aesthetically pleasing but is functional. There is a lot of unnecessary repitition that seemingly makes the website feel cluttered. The titles and subsequent text beneath the titles could be better organized in a way that does not overwhelm the user with lots of different links. Severity Rating (1)
+- Similarly, the main page does not have a main focus point. The featured articles and resources remain hidden at the bottom of the page and would be better placed as a focus point on the main page perhaps as sliding titles. Severity Rating (1)
+
 ### 9. Helps Users Recognize, Diagnose, and Recover from Errors
+- On the email subscription sign up page, the website recognizes any missing information and informs the user to fill out all spaces with an asterisks. It does not screen for errors entered manually by the user. For example, the submission of a fake_email@fakewebsite.com is an acceptable email address. Severity Rating (2). 
+- When using the search bar there is an autofill option that only shows up on the individual search site and does not appear while searching on the homepage of the ED website. Autofill options are helpful to users and prevent them from having spelling errors. This inconsistency makes it more difficult for users to navigate the website. Similarly, the search site does not offer suggestions if something is misspelled (e.g. Did you mean ___ ?). This feature would help users recover from possible errors and save them time from having to retype their question. Severity Rating (2).
+
 ### 10. Help and Documentation
+- There is a frequently asked questions page that features the answers to over sixteen main topics all that have four or more subtopics. There is no option to choose the main heading which forces the user to scroll past 16+ topics to find their topic of interest. Severity Rating (2)
+- This website also features a "Contact Us" page that lists the main headings as a clickable link at the top of the page so that the user can easily obtain the contact information for a particular department. This way, the user does not have to scroll past the long lists of contact information to find their department of interest. 
 
 ## Website 2 Heuristic Evaluation - MBDA
 ### 1. Visibility of System Status
@@ -77,7 +104,7 @@ The website opens to a rotating highlight reel with a prominent heading of "loan
 - Another problem is how the users attention is drawn to the heading "Loans and Grants" that apppears in larger font than any of the featured topics. This is likely caused by a lack of guidance because the menu options are not present at the top of the page. Severity Rating (1).  
 
 ### 9. Helps Users Recognize, Diagnose, and Recover from Errors
-- On the email subscription sign up page, the website recognizes any missing information and informs the user to fill out all spaces with an asterisks. It does not screen for errors entered manually by the user. For example, the submission of a fake_email@fakewebsite.com is an acceptable email address. Severity Rating (2). 
+- On the email subscription sign up page, similar to the ED website, the MBDA's website recognizes any missing information and informs the user to fill out all spaces with an asterisks. It does not screen for errors entered manually by the user. For example, the submission of a fake_email@fakewebsite.com is an acceptable email address. Severity Rating (2). 
 - After the search of a misspelled word or phrase is completed the engine automatically corrects to the predicted word or phrase. This saves the user's time so that they do not have to redo their whole search due to a spelling mistake. 
 
 ### 10. Help and Documentation
