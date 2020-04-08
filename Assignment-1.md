@@ -10,6 +10,8 @@ The Department of Education (ED) exists to "promote student achievement" by ensu
 
 The opening page of the department's website is standard and includes four main headings that relate to the four action items that ED is responsible for that were listed above--student loans, grants, laws, and data. There are pictures below the main headings with the exact same titles which are redundant and unecessary. Overall, I would say that this website is very cluttered and does not have a clear focal point. The structure of the website, however, is simple which makes it easy for a user to navigate. 
 
+![ED homepage](home.png)
+
 ### Website 2: Minority Business Development Agency (MBDA)
 https://www.mbda.gov
 
@@ -17,7 +19,7 @@ The Minority Business Development Agency was created by the U.S. Department of C
 
 The website opens to a rotating highlight reel with a prominent heading of "loans and grants" directly below it. It also features the latest news/tweets concerning minority businesses as well as where to locate one of their centers, more about the inclusive innovation initiative, and access to the agency's research library that has statistics on minority businesses in the United States. The menu bar is tucked away in the far right corner and opens in a way that is not standard to most websites. Due to the positioning of the menu bar, the user is led to focus more on the center of the page and the heading in tiny font that reads, "NOW OPEN: Nevada and New Mexico MBDA Business Center Grant Competitions." Overall, the website looks very sleak but is not organized in the most functional manner. 
 
-<img width="1440" alt="homepage" src="https://user-images.githubusercontent.com/63025415/78755028-541e9100-792d-11ea-9227-3fc420ac6458.png">
+![mbda homepage](homepage.png)
 
 ## Heuristic Evaluation Severity Scale
 
