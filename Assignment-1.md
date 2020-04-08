@@ -17,6 +17,7 @@ The Minority Business Development Agency was created by the U.S. Department of C
 
 The website opens to a rotating highlight reel with a prominent heading of "loans and grants" directly below it. It also features the latest news/tweets concerning minority businesses as well as where to locate one of their centers, more about the inclusive innovation initiative, and access to the agency's research library that has statistics on minority businesses in the United States. The menu bar is tucked away in the far right corner and opens in a way that is not standard to most websites. Due to the positioning of the menu bar, the user is led to focus more on the center of the page and the heading in tiny font that reads, "NOW OPEN: Nevada and New Mexico MBDA Business Center Grant Competitions." Overall, the website looks very sleak but is not organized in the most functional manner. 
 
+<img width="1440" alt="homepage" src="https://user-images.githubusercontent.com/63025415/78755028-541e9100-792d-11ea-9227-3fc420ac6458.png">
 
 ## Heuristic Evaluation Severity Scale
 
