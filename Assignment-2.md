@@ -4,7 +4,7 @@
 ### Usability Testing and Goals
 Usability testing measures how easy or difficult it is for both recurring and first time users to navigate a given website or app. This will the effectiveness, efficiency, and satisfaction
 
-Ultimately, this data is collected and used to improve the 
+A participant is asked to perform realistic tasks on a given website while verbalizing their thoughts and Ultimately, this data is collected and used to improve the ... This type of testing is important and effective because it keeps the user at the cente r
 
 For the U.S. Department of Education, the usability issues that I would like to address based off of my heuristic evaluation are as follows: 
 
@@ -28,4 +28,6 @@ Access the UT materials/online questionnaire [here](https://forms.gle/1gm1NykDwY
 Access the screen recording pilot test video [here](https://drive.google.com/file/d/1MeKXI4Fcw5CRDbCat_3Z5eFtkX026fdh/view?usp=sharing)
 
 ### Reflection
-In regards to the U.S. Department of Education's website, I learned that it 
+In regards to the U.S. Department of Education's website, I learned that it can be difficult for a user to navigate with the overwhelming amount of content available on each page. This was apparent through my participant's facial expressions and the amount of ... It was also apparent that the 
+
+Through this pilot usability test, I learned the importance of being detailed and explicit in my directions to the participant. I wrongly assumed that the participant would solve the task in the way that I did which resulted in my participant   I failed to realize that there are many ways to get to the same end result .. In order to improve this, I will change the words that I use 
