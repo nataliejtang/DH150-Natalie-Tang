@@ -12,3 +12,19 @@
 Current solutions to finding information include in-person visitation to informational school offices (e.g. the financial aid office, etc. ). Similarly, people may find this information online via specific schools or 
 
 #### What are the limitation(s) that possibly would be improved with (digital) technology?
+
+### Step 2: Identifying Target Users
+
+#### What are the characteristics of users? 
+Demographic: people that have gone or are going to school, parents, 
+
+Preferences: users that are looking for more information 
+
+Expertise: users do not need any particular level of expertise to navigate this website 
+
+#### Where would the users do that activity?
+
+#### What would the users do to complete that activity?
+
+### Step 3: Research Methods
+
