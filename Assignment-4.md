@@ -17,15 +17,20 @@ Current limitations to finding necessary educational resources include not knowi
 ### Step 2: Identifying Target Users
 
 #### What are the characteristics of users? 
-Demographic: people that have gone or are going to school, parents, 
+Demographic: people that have gone or are going to school (e.g. college students and recent grads), parents, grandparents
 
-Preferences: users that are looking for more information 
+Preferences: users that are currently enrolled in school or know someone that is enrolled in school because they will most likely need to find information about the education system
 
 Expertise: users do not need any particular level of expertise to navigate this website 
 
 #### Where would the users do that activity?
+Users would complete this activity in the comfort of their own home or really in anywhere with internet access. Having a centralized informational source online allows information to be accessible to more people at any time of the day.
 
 #### What would the users do to complete that activity?
+To search for information and resources about education, users will visit a website (for this activity, the myUCLA website) and explore headings and search options to find the information that they are looking for. 
 
 ### Step 3: Research Methods
+Ideally, I would utilize two different research methods: ethnographic research and participatory observation.
+ - Ethnographic research is a method in which researchers observe a participant in their real-life environment. Under normal conditions, I would observe students who are coming in and out of Murphy Hall, a building on UCLA's campus that has many resource offices such as CAC, the financial aid office, the registrar's office, and others. I would be able to ask students if they were successful in finding the answers to their questions based off of their visit to a given office. Unfortunately, I will be unable to conduct this in-person research due to the campus closure brought on by COVID-19.
+ - I conducted participatory observation research with my friend, a current UCLA student who fits the demographics that I mentioned above. See the next section(s) for the materials that I used to conduct this research and the results of the activity. 
 
