@@ -34,3 +34,6 @@ Ideally, I would utilize two different research methods: ethnographic research a
  - Ethnographic research is a method in which researchers observe a participant in their real-life environment. Under normal conditions, I would observe students who are coming in and out of Murphy Hall, a building on UCLA's campus that has many resource offices such as CAC, the financial aid office, the registrar's office, and others. I would be able to ask students if they were successful in finding the answers to their questions based off of their visit to a given office. Unfortunately, I will be unable to conduct this in-person research due to the campus closure brought on by COVID-19.
  - I conducted participatory observation research with my friend, a current UCLA student who fits the demographics that I mentioned above. See the next section(s) for the materials that I used to conduct this research and the results of the activity. 
 
+### Participatory Research Material
+#### COntextual Inquiry Guide
+Please find the script for this interview [here]
