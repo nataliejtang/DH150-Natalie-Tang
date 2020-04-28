@@ -35,5 +35,10 @@ Ideally, I would utilize two different research methods: ethnographic research a
  - I conducted participatory observation research with my friend, a current UCLA student who fits the demographics that I mentioned above. See the next section(s) for the materials that I used to conduct this research and the results of the activity. 
 
 ### Participatory Research Material
-#### COntextual Inquiry Guide
-Please find the script for this interview [here]
+#### Contextual Inquiry Guide
+Please find the script for this interview [here](https://docs.google.com/document/d/1YRJohHseAa8QQ-Pw_Vc0TBuxkdPGKAaKwEquH2scRiQ/edit?usp=sharing)
+
+#### User Data
+Please find the recording of the interview [here](link)
+
+Please find the transcription of the interview [here](link)
