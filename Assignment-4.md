@@ -12,7 +12,7 @@
 Current solutions to finding information include in-person visitation to informational school offices (e.g. the financial aid office, etc.). Similarly, people may find this information online via specific school websites or news outlets. If these more "formal" options do not suffice, people may be inclined to ask firends or family that may have had the same questions that would be able to share how they found the information that they were looking for. 
 
 #### What are the limitation(s) that possibly would be improved with (digital) technology?
-Current limitations to finding necessary educational resources include not knowing where to find them due to an ... Digital technology via a centralized website would allow the user to filter initial 
+Current limitations to finding necessary educational resources include not knowing where to look due to an abundance of resources and long wait times at in-person offices that can discourage people from searching for the information that they need. Digital technology via a centralized website would allow the user to find accurate information more quickly and would be able to guide the user in the right direction through various headings and search capabilities. 
 
 ### Step 2: Identifying Target Users
 
