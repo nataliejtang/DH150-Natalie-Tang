@@ -41,9 +41,17 @@ Please find the script for this interview [here](https://docs.google.com/documen
 #### User Data
 Please find the recording of the interview [here](link)
 
-Please find the transcription of the interview [here](link)
+Please find the transcription of the interview [here](https://docs.google.com/document/d/1hTsdBY1TUajKwfz05x6HQcLGp-yqjv5D-NzBJeh06xc/edit?usp=sharing)
 
 ### Highlights
+In-person vs. Online Resources (3:38)
+- "I would prefer to sit down and talk to a financial aid advisor in person rather than just read an article about financial aid. If we're talking about things like that, but the convenience of having information online is separate."
+
+Searching for Information (5:24)
+- "I have been refraining from looking for updates myself because One: I'm afraid of finding bad news, Two: I'm afraid of contrasting articles."
+
+Visiting New Websites (18:29)
+- "Um, and once you become familiar with something, it becomes easy. And so even though there might be another website that can offer more information, if I have, if it takes time, to get used to then I might not be willing to put the effort into getting used to it."
 
 ### Reflection
 I thoroughly enjoyed conducting this research activity. The participant was able to respond in a way that was much more open ended in comparison to the usability test. This was more of a conversation which allowed the participant to talk more about her specific experiences and thoughts regarding the dispersion of educational resources as opposed to focusing on completing specific tasks. This activity as a whole allowed me to see what the participant is looking for in a website that provides information about ... and potential problems... I was not expect
