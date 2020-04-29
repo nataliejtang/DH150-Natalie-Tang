@@ -42,3 +42,8 @@ Please find the script for this interview [here](https://docs.google.com/documen
 Please find the recording of the interview [here](link)
 
 Please find the transcription of the interview [here](link)
+
+### Highlights
+
+### Reflection
+I thoroughly enjoyed conducting this research activity. The participant was able to respond in a way that was much more open ended in comparison to the usability test. This was more of a conversation which allowed the participant to talk more about her specific experiences and thoughts regarding the dispersion of educational resources as opposed to focusing on completing specific tasks. This activity as a whole allowed me to see what the participant is looking for in a website that provides information about ... and potential problems... I was not expect
