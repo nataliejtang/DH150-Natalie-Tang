@@ -39,7 +39,7 @@ Ideally, I would utilize two different research methods: ethnographic research a
 Please find the script for this interview [here](https://docs.google.com/document/d/1YRJohHseAa8QQ-Pw_Vc0TBuxkdPGKAaKwEquH2scRiQ/edit?usp=sharing)
 
 #### User Data
-Please find the recording of the interview [here](link)
+Please find the recording of the interview [here](https://drive.google.com/file/d/1av5c-fXwNGUSN7BCtOZz3GCjjXDXmq-m/view?usp=sharing)
 
 Please find the transcription of the interview [here](https://docs.google.com/document/d/1hTsdBY1TUajKwfz05x6HQcLGp-yqjv5D-NzBJeh06xc/edit?usp=sharing)
 
@@ -54,4 +54,4 @@ Visiting New Websites (18:29)
 - "Um, and once you become familiar with something, it becomes easy. And so even though there might be another website that can offer more information, if I have, if it takes time, to get used to then I might not be willing to put the effort into getting used to it."
 
 ### Reflection
-I thoroughly enjoyed conducting this research activity. The participant was able to respond in a way that was much more open ended in comparison to the usability test. This was more of a conversation which allowed the participant to talk more about her specific experiences and thoughts regarding the dispersion of educational resources as opposed to focusing on completing specific tasks. This activity as a whole allowed me to see what the participant is looking for in a website that provides information about ... and potential problems... I was not expect
+I thoroughly enjoyed conducting this research activity. The participant was able to respond in a way that was much more open ended in comparison to the usability test. This was more of a conversation which allowed the participant to talk more about her specific experiences and thoughts regarding the dispersion of educational resources as opposed to focusing on completing specific tasks. This activity as a whole allowed me to see what the participant is looking for in a website that provides aggregated information about education as well as any potential problems that may arise. I was not expecting the participant to ask so many clarifying questions. In order to improve this activity, it would be beneficial for me to be more clear in what I am asking and to avoid using the same phrases over and over. This confusion could also be eliminated by providing examples that may help the participant understand the question better. I also had the tendency to say "cool" or "nice" a lot which implies that the participant provided a "correct" answer. This is not the goal of the study and I should not try to say such phrases in future contextual inquiry activities. 
