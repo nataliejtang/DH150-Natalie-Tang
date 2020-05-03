@@ -3,6 +3,22 @@
 
 ### Personas
 
+![Mikayla Profile](P2.png)
+
+![Mikayla Empathy](E1.png)
+
+
+![Rosa Profile](P1.png)
+
+![Rosa Empathy](E2.png)
+
+
+![Kristina Profile](P3.png)
+
+![Kristina Empathy](E3.png)
+
+
+
 ### Scenarios
 #### Design Focuses
 1 - Searchability through the search bar located in the upper right corner
@@ -27,9 +43,13 @@ Rosa is a caring grandmother that wants to stay informed about how the coronavir
 ##### How Rosa is using this website
 Since Rosa is new to the online world, she relies heavily on bold headings to guide her on the site. Rosa particularly spends a long time looking at the home page to determine what she needs to click on next. Rosa uses the headings and information on the homepage to find what she is looking for.
 
+![Rosa Journey Map](JM2.png)
+
 #### Scenario 3
 ##### Why is Kristina using this website
 Kristina is an executive at a film company that cares for her two children that are about to graduate from high school. She is generally very aware of what is going on in the world and in her kids' lives but wants to know information about grant/loan options for her kids that will be attending college as well as how COVID-19 will impact their futures. 
 
 ##### How is Kristina using this website
 Kristina typically gets information from lots of different sources and visits multiple websites to get the answers she needs. However, Kristina discovers that the Department of Education has all that she needs in one place. With the vast amount of information provided on this website, Kristina often needs to look at the previous links that she has clicked on to recall information. Kristina can see that links will turn purple after she clicks on them and now there is a conveniently located "recently viewed" tab where she can easily access all of these documents in one place and does not have to navigate to and fro.
+
+![Kristina's Journey Map](JM3.png)
