@@ -13,6 +13,7 @@ With such little free time, Mikayla needs to get answers about specific question
 
 #### Scenario 2
 ##### Why is Rosa using this website
-Rosa is a caring grandmother that wants to stay informed about how the coronavirus is impacting her grandkids and their schooling. She is concerned about their online learning. Rosa does not know how to navigate the internet very well and 
+Rosa is a caring grandmother that wants to stay informed about how the coronavirus is impacting her grandkids and their schooling. She is concerned about their online learning. Rosa does not know how to navigate the internet very well, but wants to have access to the various resources that are provided online (according to her grandkids at least). Rosa decides to use the family desktop computer to search for her needs. 
 
 ##### How Rosa is using this website
+Since Rosa is new to the online world, she relies heavily on bold headings to guide her on the site. Rosa particularly spends a long time looking at the home page to determine what she needs to click on next. Rosa uses the headings and information on the homepage to find what she is looking for.
