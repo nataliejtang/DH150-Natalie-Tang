@@ -6,7 +6,9 @@
 ### Scenarios
 #### Design Focuses
 1 - Searchability through the search bar located in the upper right corner
+
 2 - Large, clear headings and an organized home page
+
 3- Accessible, aggregated information that can be accessed through a "recently viewed" tab 
 
 #### Scenario 1 
