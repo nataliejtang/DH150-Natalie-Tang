@@ -17,12 +17,19 @@ Search Bar
 Headings & Layout
 ![Layout](WF3.jpg)
 
-
 Recently Viewed
 ![Recently Viewed](WF2.jpg)
 
 
 ### Wireflow
+Search Bar
+![Search](FLOW1.jpg)
+
+Headings & Layout
+![Layout](FLOW2.jpg)
+
+Recently Viewed
+![Recently Viewed](FLOW3.jpg)
 
 ### Testing
 
