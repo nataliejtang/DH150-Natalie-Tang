@@ -32,6 +32,14 @@ Recently Viewed
 ![Recently Viewed](FLOW3.jpg)
 
 ### Testing
+Search Bar
+![Search](Test1.jpg)
+
+Headings & Layout
+![Layout](Test2.jpg)
+
+Recently Viewed
+![Recently Viewed](Test3.jpg)
 
 ### Revised Wireframes/ Wireflow
 
