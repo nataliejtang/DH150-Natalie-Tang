@@ -11,6 +11,16 @@
 3. Recently Viewed -- There is a lot of content and resources available on the U.S. Department of Education website. With that being said, it may be difficult for the user to distinguish a source that they have visited from one that they have not visited. Users may also need to refer back to sources that they have previously visited. Providing users with a recently viewed tab will allow them to easily access this information. 
 
 ### Wireframes
+Search Bar
+![Search](WF1.jpg)
+
+Headings & Layout
+![Layout](WF3.jpg)
+
+
+Recently Viewed
+![Recently Viewed](WF2.jpg)
+
 
 ### Wireflow
 
