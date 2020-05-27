@@ -34,3 +34,15 @@ In this task, Kristina, a mother, is doing some research on the U.S. Department 
 
 #### Graphical Interface Design Decisions
 For the initial re-design of this website I took inspiration from the bones of the current U.S. Department of Education website and expanded on them. One problem with the current site is its lack of a "professional tone." The current site seems extremely plain and disorganized. I liked the use of the color blue on the current site, but I opted for a deeper blue mixed with gray for a more professional tone. I re-designed the top headings to include a drop down menu so that users could more easily navigate to their desired destinations. Additionally, I reorganized the site so that the home page information was naturally separated (through color blocking) and easier for the user to view. 
+
+### Impression Test 
+I conducted an impression test among my fellow DH150 classmates who provided me with useful information that allowed me to completely adjust my vision for the site in the most beneficial way. My initial design of the site was extremely similar to the existing U.S. Department of Education website. Pictured below is my initial prototype that my classmates evaluated.
+
+Based on this initial prototype my classmates suggested/noted the following:
+- The site looked very straight-forward and was easy to navigate
+- The design looks skeletal, meaning there was still more to develop and more space to fill out on the site
+- The headings were not very informative about what information it would lead to 
+- The spacing was all over the place
+- Headings seemed to clash at the subsections of the site
+
+Based on this feedback, I was able to identify that I needed to increase the professionalism of the site altogether. This would include drop down options for headings, more color (less white space), and a better overall layout. Thank you to Amanda, Jack, & Marina for this useful advice that I was able to use to create a better user experience. 
