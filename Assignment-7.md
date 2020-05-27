@@ -19,3 +19,8 @@ In this task, Mikayla, a current undergraduate student, visits the U.S. Departme
 - Locating information through large, clear headings
 
 In this task, Rosa, an elderly woman, visits the U.S. Department of Education website to find information about how COVID-19 is going to impact her grandchildren's schooling. Rosa starts on the home page of the site and is able to clearly identify a featured heading that reads, "Coronavirus (COVID-19) Information & Updates." Rosa clicks on this featured picture and is redirected to a page that includes updates and resources regarding how the coronavirus has impacted schooling. She is able to see that there are resources specifically for elementary and secondary schools. Rosa clicks on various articles and resources under this heading to educate herself on the coronavirus/school situation. 
+
+### Task 3: Kristina Lee's Persona
+- Accessing recently viewed documents 
+
+In this task, Kristina, a mother, is doing some research on the U.S. Department of Education website regarding COVID-19, college statistics, and more. After conducting this research for about two hours, Kristina remembers a specific resoure that she viewed had valuable information about how the Department of Education intends to address the risk of COVID-19 in schools while protecting the civil rights of students. She cannot recall where she found this specific resource. She navigates to the upper right corner to the link named, "recently viewed." Kristina is able to see all the articles/ links that she has visited throughout the day, broken up by hour. She remembers that she found the resource about an hour ago and is able to identify the resource on the "recently viewed" page under the heading "in the past hour." 
