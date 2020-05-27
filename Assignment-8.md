@@ -12,7 +12,7 @@ The current design of the U.S. Department of Education website is functional; ho
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 # User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+This project will support users that are seeking more information about the education system itself as well as relevant updates regarding how one's education may be impacted by current events (e.g. COVID-19). This will benefit the public in that it will keep people informed and provide users with resources to answer any questions that he or she may have. Centralized information about education will positivelt impact people of all ages -- from kids in elementary school to adults enrolled in higher education and concerned parents/grandparents alike. Current solutions to finding information include [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-4.md)
 
 # UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
