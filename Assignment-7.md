@@ -58,6 +58,16 @@ For the initial re-design of this website I took inspiration from the bones of t
 
 ### Accessibility Test 
 
+![color](color1.png) 
+
+![color](color2.png)  
+
+![color](color3.png)
+
+![color](color4.png) 
+
+![color](color5.png)
+
 ### Impression Test 
 I conducted an impression test among my fellow DH150 classmates who provided me with useful information that allowed me to completely adjust my vision for the site in the most beneficial way. My initial design of the site was extremely similar to the existing U.S. Department of Education website. Pictured below is my initial prototype that my classmates evaluated.
 
