@@ -68,6 +68,8 @@ For the initial re-design of this website I took inspiration from the bones of t
 
 ![color](color5.png)
 
+Most of the colors I chose for my prototype were acceptable according to WCAG2.0 AA level accessability standard. The only colors of the site that failed to pass this accessability test was the color of the main headings when they are being clicked on (a black on top of a dark blue). By doing this, I wanted to signal to the user that they can click on the heading. This would be a simple fix, as all of the other colors chosen for the prototype passed the AA level standard. 
+
 ### Impression Test 
 I conducted an impression test among my fellow DH150 classmates who provided me with useful information that allowed me to completely adjust my vision for the site in the most beneficial way. My initial design of the site was extremely similar to the existing U.S. Department of Education website. Pictured below is my initial prototype that my classmates evaluated.
 
