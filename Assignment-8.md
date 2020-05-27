@@ -1,7 +1,9 @@
-# Project title + Your name
+# Public Spaces Impacted by COVID-19: U.S. Department of Education 
+## DH150: Assignment 8 by Natalie Tang
 
 # Introduction: a brief information about the project
-What is the project about? The motivation of the project and possible contribution.
+The coronavirus has profoundly impacted how we interact with the world and has drastically increased the need for online platforms. Now, more than ever, it is important that public websites are both easy to navigate and aesthetically pleasing. In this project, I will propose a new UX design of the U.S Department of Education website that will allow users to navigate the site more easily. Given the ongoing situation, students, teachers, and parents alike are curious about how the coronavirus will impact the future of education on every level (from elementary school to postsecondary school). This would likely increase traffic onto the Department of Education website because people are searching for updates from reliable sources (e.g. government websites). 
+
 
 # Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
