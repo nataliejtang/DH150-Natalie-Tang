@@ -46,6 +46,8 @@ URL Link to prototype: click here
 #### Graphical Interface Design Decisions
 For the initial re-design of this website I took inspiration from the bones of the current U.S. Department of Education website and expanded on them. One problem with the current site is its lack of a "professional tone." The current site seems extremely plain and disorganized. I liked the use of the color blue on the current site, but I opted for a deeper blue mixed with gray for a more professional tone. I re-designed the top headings to include a drop down menu so that users could more easily navigate to their desired destinations. Additionally, I reorganized the site so that the home page information was naturally separated (through color blocking) and easier for the user to view. 
 
+### Accessibility Test 
+
 ### Impression Test 
 I conducted an impression test among my fellow DH150 classmates who provided me with useful information that allowed me to completely adjust my vision for the site in the most beneficial way. My initial design of the site was extremely similar to the existing U.S. Department of Education website. Pictured below is my initial prototype that my classmates evaluated.
 
@@ -58,6 +60,12 @@ Based on this initial prototype my classmates suggested/noted the following:
 
 Based on this feedback, I was able to identify that I needed to increase the professionalism of the site altogether. This would include drop down options for headings, more color (less white space), and a better overall layout. Thank you to Amanda, Jack, & Marina for this useful advice that I was able to use to create a better user experience. 
 
-### Accessibility Check
+### Cognitive Walkthrough
+A cognitive walkthrough is useful when evaluating the a site's learnability for new users. During this process, evaluators work through a series of tasks and ask questions from the perspective of the user. The cognitive walkthrough went hand-in-hand with the impression test that I mentioned above. I walked my peers through the Kristina Lee's task that involved research and being able to navigate her previously viewed documents. My peers were very interested in this specific tool but were concerned about how it would be laid out/ organized. They generally noted that the site was straight forward and that it was easy to navigate to and from different areas of a given page. 
 
+Based on this feedback, I decided to separate the "recently viewed" page by documents viewed per hour with the option to view pages from up to seven days prior. Additionally, I aimed to keep the site very straight forward by not including any unnecessary features. 
 
+### Reflection 
+I was able to learn so much from creating this high fidelity prototype. This project incorporated pretty much all of our previous work and it was cool to see everything come together. At first, I found it quite challenging to use Figma, but overtime I became more and more comfortable with the tool. This was expected for me, especially considering the fact that this is the first time I have done anything related to UX/UI. The most useful thing throughout my creation of a high fidelity prototype was my peers reviewing my prototype. My peers were able to shift my perspective about my entire prototype which inspired me to essentially start over to create a more professional site and one that was not merely "bare bones."
+
+In the future, I would like to conduct more peer reviews as the in-class review proved to be extremely helpful in my case. My re-designed prototype is so different from the one that was initially reviewed by my peers in class. I think it would be beneficial to help further refine the design of my site with additional reviews. I believe that I was able to "fix" everything that my peers suggested to me. More peer review would allow me to adjust the prototype further. 
