@@ -30,18 +30,27 @@ In this task, Kristina, a mother, is doing some research on the U.S. Department 
 URL Link to prototype: click here 
 #### Task 1: Search Bar Utilization
 ##### Screen Designs
+![Search](search1.png)
 
 ##### Wireflow With Screen Designs
+![Search Wireflow](search2.png)
 
 #### Task 2: Informative, Clear Headings
 ##### Screen Designs
+![corona heading](corona1.png)
 
 ##### Wireflows With Screen Designs
+![corona wireflow](corona2.png)
 
 #### Task 3: Recenly Viewed Documents 
 ##### Screen Designs
+![recently viewed](recent1.png)
 
 ##### Wireflows With Screen Designs
+![recently viewed wireflow](recent2.png)
+
+#### Overview
+![wireflow overview](overview.png)
 
 #### Graphical Interface Design Decisions
 For the initial re-design of this website I took inspiration from the bones of the current U.S. Department of Education website and expanded on them. One problem with the current site is its lack of a "professional tone." The current site seems extremely plain and disorganized. I liked the use of the color blue on the current site, but I opted for a deeper blue mixed with gray for a more professional tone. I re-designed the top headings to include a drop down menu so that users could more easily navigate to their desired destinations. Additionally, I reorganized the site so that the home page information was naturally separated (through color blocking) and easier for the user to view. 
