@@ -61,6 +61,8 @@ For the initial re-design of this website I took inspiration from the bones of t
 ### Impression Test 
 I conducted an impression test among my fellow DH150 classmates who provided me with useful information that allowed me to completely adjust my vision for the site in the most beneficial way. My initial design of the site was extremely similar to the existing U.S. Department of Education website. Pictured below is my initial prototype that my classmates evaluated.
 
+![previous prototype](previous.png)
+
 Based on this initial prototype my classmates suggested/noted the following:
 - The site looked very straight-forward and was easy to navigate
 - The design looks skeletal, meaning there was still more to develop and more space to fill out on the site
