@@ -24,3 +24,13 @@ In this task, Rosa, an elderly woman, visits the U.S. Department of Education we
 - Accessing recently viewed documents 
 
 In this task, Kristina, a mother, is doing some research on the U.S. Department of Education website regarding COVID-19, college statistics, and more. After conducting this research for about two hours, Kristina remembers a specific resoure that she viewed had valuable information about how the Department of Education intends to address the risk of COVID-19 in schools while protecting the civil rights of students. She cannot recall where she found this specific resource. She navigates to the upper right corner to the link named, "recently viewed." Kristina is able to see all the articles/ links that she has visited throughout the day, broken up by hour. She remembers that she found the resource about an hour ago and is able to identify the resource on the "recently viewed" page under the heading "in the past hour." 
+
+### Graphic Designs
+#### Task 1: Search Bar Utilization
+
+#### Task 2: Informative, Clear Headings
+
+#### Task 3: Recenly Viewed Documents 
+
+#### Graphical Interface Design Decisions
+For the initial re-design of this website I took inspiration from the bones of the current U.S. Department of Education website and expanded on them. One problem with the current site is its lack of a "professional tone." The current site seems extremely plain and disorganized. I liked the use of the color blue on the current site, but I opted for a deeper blue mixed with gray for a more professional tone. I re-designed the top headings to include a drop down menu so that users could more easily navigate to their desired destinations. Additionally, I reorganized the site so that the home page information was naturally separated (through color blocking) and easier for the user to view. 
