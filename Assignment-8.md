@@ -15,17 +15,24 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 This project will support users that are seeking more information about the education system itself as well as relevant updates regarding how one's education may be impacted by current events (e.g. COVID-19). This will benefit the public in that it will keep people informed and provide users with resources to answer any questions that he or she may have. Centralized information about education will positivelt impact people of all ages -- from kids in elementary school to adults enrolled in higher education and concerned parents/grandparents alike. Current solutions to finding information include [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-4.md)
 
 # UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+I explored the personas of three different users that all had different goals in visiting the U.S. Department of Education website.
+ ![Mikayla](p2.png)
+ 
+ [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-5.md)
+ 
 
 # Wireframe and graphic design element variation [assignment06 + part of 07]
 
 # Low-fidelity prototype (wireflow, assignment06)
+The purpose of this low-fidelity prototype is to test how different features on the website flow together while also testing the site's overall functionality. Based on my research in previous assignments, I have chosen three different design problems to fix: the search bar, headings & layouts, and a recently viewed function. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-6.md) 
+
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 # High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+The following is an interactive, high-fidelity prototype of the U.S. Department of Education website. This prototype was created and developed on Figma. The prototype focuses on three features that are based on the (slightly adjusted)personas of Mikayla Beck, Rosa Torres, and Kristina Lee (refer to Assignment 5). [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-7.md) 
 
 # Optional evaluation and revision history 
+
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 # Pitch video 
