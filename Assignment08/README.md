@@ -1,6 +1,14 @@
 # Public Spaces Impacted by COVID-19: U.S. Department of Education 
 ## DH150: Assignment 8 by Natalie Tang
 
+<div class="jumbotron">
+  <h1 class="display-4">Public Spaces Impacted by COVID-19: U.S. Department of Education</h1>
+  <p class="lead">The coronavirus has profoundly impacted how we interact with the world and has drastically increased the need for online platforms. Now, more than ever, it is important that public websites are both easy to navigate and aesthetically pleasing. In this project, I will propose a new UX design of the U.S Department of Education website that will allow users to navigate the site more easily. Given the ongoing situation, students, teachers, and parents alike are curious about how the coronavirus will impact the future of education on every level (from elementary school to postsecondary school). This would likely increase traffic onto the Department of Education website because people are searching for updates from reliable sources (e.g. government websites). </p>
+  <hr class="my-4">
+  <p>DH150: Assignment 8 by Natalie Tang</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
+
 ## Introduction: a brief information about the project
 The coronavirus has profoundly impacted how we interact with the world and has drastically increased the need for online platforms. Now, more than ever, it is important that public websites are both easy to navigate and aesthetically pleasing. In this project, I will propose a new UX design of the U.S Department of Education website that will allow users to navigate the site more easily. Given the ongoing situation, students, teachers, and parents alike are curious about how the coronavirus will impact the future of education on every level (from elementary school to postsecondary school). This would likely increase traffic onto the Department of Education website because people are searching for updates from reliable sources (e.g. government websites). 
 
