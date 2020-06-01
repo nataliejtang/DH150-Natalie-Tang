@@ -15,13 +15,19 @@ I had a general idea about how people (students, parents, etc.) would traditiona
 
 # UX storytelling [persona+scenario, assignment05]
 It is essential to develop empathy for users to develop a design that is effective and suits the needs of users. To embrace the perspectives and needs of potential users for the U.S. Department of Education website I created multiple personas, scenarios, user journeys, and empathy maps. I created personas from 3 different age categories to emphasize that people of all ages need access to the resources that the Department of Education has to offer and need to be able to navigate efficiently. These personas and stories help keep the design focused on the user and helped me throughought the remainder of the design process.
-
  ![Mikayla](P2.png)
  
  [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-5.md)
  
 
 # Wireframe and graphic design element variation [assignment06 + part of 07]
+The perspective of the personas I created allowed me to incorporate three different features into my website that I deemed valuable for users:
+
+1. Searchability through the search bar in a way that displays information intuitively
+2. Clear headings and an organized homepage that would help users navigate the plethora of resources
+3. The creation of a "recently viewed" tab to help organize the mass amounts of information that users are bombarded with
+
+Based off of these focus points, I began sketching out scenarios and wireframs that would address these points. 
 ![Search](WF1.jpg)
 
 
