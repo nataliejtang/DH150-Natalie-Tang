@@ -13,14 +13,14 @@ To get a sense of how public spaces were presenting information during the coron
 ## User research:
 I had a general idea about how people (students, parents, etc.) would traditionally find resources and updates regarding their education -- through educational offices and updates from their own institutions. However, with the changing circumstances, the online dissemination of information has become increasingly important. I needed to learn more about what users needed and wanted from online platforms. I was able to do this by conducting user research with my roommate, a UCLA pre-med student. She offered to give her insights to how she usually finds educational resources and her thought process when visiting websites. The user analyzed the UCLA website, a site she was relatively farmiliar with, and answered questions about how she is finding/not finding resources during the COVID-19 pandemic. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-4.md)
 
-# UX storytelling [persona+scenario, assignment05]
+# UX storytelling:
 It is essential to develop empathy for users to develop a design that is effective and suits the needs of users. To embrace the perspectives and needs of potential users for the U.S. Department of Education website I created multiple personas, scenarios, user journeys, and empathy maps. I created personas from 3 different age categories to emphasize that people of all ages need access to the resources that the Department of Education has to offer and need to be able to navigate efficiently. These personas and stories help keep the design focused on the user and helped me throughought the remainder of the design process.
  ![Mikayla](P2.png)
  
  [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-5.md)
  
 
-# Wireframe and graphic design element variation [assignment06 + part of 07]
+# Wireframe and Graphic Design:
 The perspective of the personas I created allowed me to incorporate three different features into my website that I deemed valuable for users:
 
 1. Searchability through the search bar in a way that displays information intuitively
@@ -32,18 +32,14 @@ Based off of these focus points, I began sketching out scenarios and wireframs t
 
 
 # Low-fidelity prototype (wireflow, assignment06)
-The purpose of this low-fidelity prototype is to test how different features on the website flow together while also testing the site's overall functionality. Based on my research in previous assignments, I have chosen three different design problems to fix: the search bar, headings & layouts, and a recently viewed function. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-6.md) 
+The low-fidelity prototype allowed me to test how different features on the website will flow together while also testing the site's overall functionality. I focused on the three tasks that I mentioned previously that will allow users to easily find coronavirus updates as well as general educational resources.  [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-6.md) 
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 # High-fidelity prototype (functional/interactive prototype, assignment08)
-The following is an interactive, high-fidelity prototype of the U.S. Department of Education website. This prototype was created and developed on Figma. The prototype focuses on three features that are based on the (slightly adjusted)personas of Mikayla Beck, Rosa Torres, and Kristina Lee (refer to Assignment 5). [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-7.md) 
+Following the creation of my low-fidelity prototype, I developed an interactive, high-fidelity prototype of the U.S. Department of Education website. I created and developed this prototype on Figma. I realized that my low-fidelity prototype did not nearly go into enough detail about how I wanted the site to function. As a result, my high-fidelity prototype looks much different than my wireframes and wireflow. This helped me envision what the end product would look like and would allow me to test the effectiveness of the prototype among users. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-7.md) 
 
 ![wireflow overview](overview.png) 
-
-# Optional evaluation and revision history 
-
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 # Pitch video 
 
