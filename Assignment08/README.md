@@ -34,7 +34,7 @@ Based off of these focus points, I began sketching out scenarios and wireframs t
 ## Low-fidelity prototype (wireflow, assignment06)
 The low-fidelity prototype allowed me to test how different features on the website will flow together while also testing the site's overall functionality. I focused on the three tasks that I mentioned previously that will allow users to easily find coronavirus updates as well as general educational resources.  [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-6.md) 
 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+![wireflow](FLOW1.png)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Following the creation of my low-fidelity prototype, I developed an interactive, high-fidelity prototype of the U.S. Department of Education website. I created and developed this prototype on Figma. I realized that my low-fidelity prototype did not nearly go into enough detail about how I wanted the site to function. As a result, my high-fidelity prototype looks much different than my wireframes and wireflow. This helped me envision what the end product would look like and would allow me to test the effectiveness of the prototype among users. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-7.md) 
