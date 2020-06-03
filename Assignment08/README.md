@@ -32,7 +32,7 @@ Based off of these focus points, I began sketching out scenarios and wireframs t
 ## Low-fidelity prototype:
 The low-fidelity prototype allowed me to test how different features on the website will flow together while also testing the site's overall functionality. I focused on the three tasks that I mentioned previously that will allow users to easily find coronavirus updates as well as general educational resources.  [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-6.md) 
 
-![wireflow](FLOW1.png)
+![wireflow](FLOW1.jpg)
 
 ## High-fidelity prototype:
 
