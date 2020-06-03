@@ -14,12 +14,9 @@ To get a sense of how public spaces were presenting information during the coron
 I had a general idea about how people (students, parents, etc.) would traditionally find resources and updates regarding their education -- through educational offices and updates from their own institutions. However, with the changing circumstances, the online dissemination of information has become increasingly important. I needed to learn more about what users needed and wanted from online platforms. I was able to do this by conducting user research with my roommate, a UCLA pre-med student. She offered to give her insights to how she usually finds educational resources and her thought process when visiting websites. The user analyzed the UCLA website, a site she was relatively farmiliar with, and answered questions about how she is finding/not finding resources during the COVID-19 pandemic. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-4.md)
 
 ## UX storytelling:
-It is essential to develop empathy for users to develop a design that is effective and suits the needs of users. To embrace the perspectives and needs of potential users for the U.S. Department of Education website I created multiple personas, scenarios, user journeys, and empathy maps. I created personas from 3 different age categories to emphasize that people of all ages need access to the resources that the Department of Education has to offer and need to be able to navigate efficiently. These personas and stories help keep the design focused on the user and helped me throughought the remainder of the design process.
+It is essential to develop empathy for users to develop a design that is effective and suits the needs of users. To embrace the perspectives and needs of potential users for the U.S. Department of Education website I created multiple personas, scenarios, user journeys, and empathy maps. I created personas from 3 different age categories to emphasize that people of all ages need access to the resources that the Department of Education has to offer and need to be able to navigate efficiently. These personas and stories help keep the design focused on the user and helped me throughought the remainder of the design process. [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-5.md)
  ![Mikayla](P2.png)
  
- [... read more >>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-5.md)
- 
-
 ## Wireframe and Graphic Design:
 The perspective of the personas I created allowed me to incorporate three different features into my website that I deemed valuable for users:
 
