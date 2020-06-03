@@ -24,7 +24,8 @@ The perspective of the personas I created allowed me to incorporate three differ
 2. Clear headings and an organized homepage that would help users navigate the plethora of resources
 3. The creation of a "recently viewed" tab to help organize the mass amounts of information that users are bombarded with
 
-Based off of these focus points, I began sketching out scenarios and wireframs that would address these points. 
+Based off of these focus points, I began sketching out scenarios and wireframs that would address these points. [... read more>>](https://github.com/nataliejtang/DH150-Natalie-Tang/blob/master/Assignment-6.md)
+
 ![Search](WF1.jpg)
 
 
