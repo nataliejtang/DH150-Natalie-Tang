@@ -27,7 +27,7 @@ In this task, Kristina, a mother, is doing some research on the U.S. Department 
 
 ### Graphic Designs/ Interactive Prototype
 
-URL Link to prototype: click [here](https://www.figma.com/file/qliJts66TgP4FwwxNc6C2k/Redo?node-id=0%3A1)
+URL Link to prototype: click [here](https://www.figma.com/file/qliJts66TgP4FwwxNc6C2k/U.S.-Department-of-Education?node-id=0%3A1)
 
 #### Task 1: Search Bar Utilization
 ##### Screen Designs
